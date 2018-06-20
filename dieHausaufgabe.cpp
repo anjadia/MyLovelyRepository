@@ -5,6 +5,8 @@
 #include <Windows.h>
 #include <string>
 using namespace std;
+
+//Lubimy zmiany
 class BinaryNumber
 {
 	string bin_;
